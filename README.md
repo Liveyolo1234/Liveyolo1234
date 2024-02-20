@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [
-](https://www.google.com/)<!---
+[](https://www.google.com/)<!---
 Liveyolo1234/Liveyolo1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->](https://www.google.com/?safe=active&ssui=on)https://www.google.com/?safe=active&ssui=on
